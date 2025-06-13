@@ -69,7 +69,7 @@ pip install flask flask-cors flask-jwt-extended pymongo python-dotenv werkzeug
 ```
 
 #### Configure environment variables
-Create a `.env` file in the backend directory:
+The`.env` file in the backend directory:
 ```env
 SECRET_KEY=a8f5f167f44f4964e6c998dee827110c
 MONGODB_URI=mongodb+srv://your-username:your-password@cluster0.xxxxx.mongodb.net/stayfinder?retryWrites=true&w=majority&appName=Cluster0
@@ -200,7 +200,7 @@ The React application will start on `http://localhost:3000`
 
 ## 🌐 Environment Variables
 
-Create a `.env` file in the backend directory with these variables:
+change `.env` file in the backend directory with these variables:
 
 ```env
 SECRET_KEY=your-secret-key-here
