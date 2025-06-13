@@ -208,10 +208,3 @@ MONGODB_URI=your-mongodb-connection-string
 JWT_SECRET_KEY=your-jwt-secret-key
 ```
 
-- [ ] Photo upload functionality
-- [ ] Admin dashboard with analytics
-- [ ] Mobile app development
-
----
-
-**Happy coding! 🚀**
